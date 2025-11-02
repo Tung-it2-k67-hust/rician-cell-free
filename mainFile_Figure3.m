@@ -1,6 +1,6 @@
 %This Matlab script can be used to generate Figure 3 in the article:
 %
-%Ö. Özdogan, E. Björnson and J. Zhang, "Performance of Cell-Free Massive MIMO with Rician Fading 
+%ï¿½. ï¿½zdogan, E. Bjï¿½rnson and J. Zhang, "Performance of Cell-Free Massive MIMO with Rician Fading 
 %and Phase Shifts," in IEEE Transactions on Wireless Communications.
 %doi: 10.1109/TWC.2019.2935434
 %
@@ -46,7 +46,7 @@ pv=p*ones(1,K);
 
 
 %Select the number of setups with random AP/UE locations
-nbrOfSetups=50;
+nbrOfSetups=30;
 %Select the number of channel realizations per setup
 nbrOfRealizations=5e2;
 
